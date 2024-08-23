@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSetTimer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs",
+              "RelativeDocumentMoniker": "frmSetTimer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs",
+              "RelativeToolTip": "frmSetTimer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:22:00.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSetTimer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs",
+              "RelativeDocumentMoniker": "frmSetTimer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs [Design]",
+              "RelativeToolTip": "frmSetTimer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:21:57.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:21:35.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmManageCategores.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
+              "RelativeDocumentMoniker": "frmManageCategores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
+              "RelativeToolTip": "frmManageCategores.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwGcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:05:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmManageCategores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
+              "RelativeDocumentMoniker": "frmManageCategores.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs [Design]",
+              "RelativeToolTip": "frmManageCategores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:05:14.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
+              "RelativeToolTip": "frmMainScreen.cs",
+              "ViewState": "AQIAAKYBAAAAAAAAAAAUwLQBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:03:49.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
