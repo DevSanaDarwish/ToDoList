@@ -33,7 +33,7 @@ namespace ToDoList
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            this.Icon = new System.Drawing.Icon("C:\\Users\\USER\\Downloads\\oip__17__Xe1_icon.ico");
+            
         }
 
         private void ConfigureTextBox(TextBox text)

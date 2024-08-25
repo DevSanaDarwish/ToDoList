@@ -253,7 +253,7 @@
             // pbSearch
             // 
             this.pbSearch.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbSearch.Image = global::ToDoList.Properties.Resources.OIP__16_;
+            this.pbSearch.Image = ((System.Drawing.Image)(resources.GetObject("pbSearch.Image")));
             this.pbSearch.Location = new System.Drawing.Point(1114, 14);
             this.pbSearch.Name = "pbSearch";
             this.pbSearch.Size = new System.Drawing.Size(37, 31);
@@ -355,7 +355,7 @@
             this.btnManage.FillColor = System.Drawing.Color.Transparent;
             this.btnManage.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnManage.ForeColor = System.Drawing.Color.White;
-            this.btnManage.Image = global::ToDoList.Properties.Resources.project_management;
+            this.btnManage.Image = ((System.Drawing.Image)(resources.GetObject("btnManage.Image")));
             this.btnManage.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnManage.ImageSize = new System.Drawing.Size(35, 35);
             this.btnManage.Location = new System.Drawing.Point(9, 666);
@@ -376,7 +376,7 @@
             this.btnComplete.FillColor = System.Drawing.Color.Transparent;
             this.btnComplete.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnComplete.ForeColor = System.Drawing.Color.White;
-            this.btnComplete.Image = global::ToDoList.Properties.Resources.work_order;
+            this.btnComplete.Image = ((System.Drawing.Image)(resources.GetObject("btnComplete.Image")));
             this.btnComplete.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnComplete.ImageSize = new System.Drawing.Size(35, 35);
             this.btnComplete.Location = new System.Drawing.Point(9, 595);
@@ -397,7 +397,7 @@
             this.btnPending.FillColor = System.Drawing.Color.Transparent;
             this.btnPending.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPending.ForeColor = System.Drawing.Color.White;
-            this.btnPending.Image = global::ToDoList.Properties.Resources.daily_planning;
+            this.btnPending.Image = ((System.Drawing.Image)(resources.GetObject("btnPending.Image")));
             this.btnPending.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnPending.ImageSize = new System.Drawing.Size(35, 35);
             this.btnPending.Location = new System.Drawing.Point(9, 526);
@@ -418,7 +418,7 @@
             this.btnAll.FillColor = System.Drawing.Color.Transparent;
             this.btnAll.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAll.ForeColor = System.Drawing.Color.White;
-            this.btnAll.Image = global::ToDoList.Properties.Resources.list;
+            this.btnAll.Image = ((System.Drawing.Image)(resources.GetObject("btnAll.Image")));
             this.btnAll.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnAll.ImageSize = new System.Drawing.Size(40, 40);
             this.btnAll.Location = new System.Drawing.Point(9, 454);

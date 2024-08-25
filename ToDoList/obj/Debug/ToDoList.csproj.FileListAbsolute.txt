@@ -1,0 +1,32 @@
+C:\Users\USER\source\repos\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\USER\source\repos\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\USER\source\repos\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\USER\source\repos\ToDoList\bin\Debug\Guna.UI2.dll
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.csproj.Up2Date
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.frmCalculatePercentage.resources
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.frmSetTimer.resources
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.frmMainScreen.resources
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.frmManageCategores.resources
+C:\Users\USER\source\repos\ToDoList\obj\Debug\ToDoList.frmWelcome.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.frmWelcome.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.frmCalculatePercentage.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.frmSetTimer.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.frmMainScreen.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.frmManageCategores.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.Up2Date
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\USER\Downloads\Telegram Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

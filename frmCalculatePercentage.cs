@@ -78,10 +78,6 @@ namespace ToDoList
                         .Value);                    
                     DateTime endDateLimit = dateNow.Add(daysToSum);
 
-                    //if ((startDate.Date == dateNow.Date) && (endDate.Date == endDateLimit.Date))
-                    //{
-                    //    countOfTotalTasks++;
-                    //}
 
                     if(startDate <= endDateLimit && endDate >= dateNow)
                         countOfTotalTasks++;
@@ -96,7 +92,7 @@ namespace ToDoList
             return countOfTotalTasks;
         }
 
-        private double CalcualteTotalPercentage(double daysToSum)
+        private double CalculateTotalPercentage(double daysToSum)
         {
             int countOfTotalTasks = CalculateCountOfTotalTasks(TimeSpan.FromDays(daysToSum));
             int sumOfCompletedTasks = CalculateSumOfCompletedTasks();
@@ -125,18 +121,18 @@ namespace ToDoList
             switch(_choice)
             {
                 case enChoices.Today:
-                    RadialGauge.Value = (int)CalcualteTotalPercentage(1);
+                    RadialGauge.Value = (int)CalculateTotalPercentage(1);
                     lblExactPercentage.Text = RadialGauge.Value.ToString() + " %";
                     break;
 
                 case enChoices.ThisWeek:
-                    RadialGauge.Value = (int)CalcualteTotalPercentage(6);
+                    RadialGauge.Value = (int)CalculateTotalPercentage(6);
                     lblExactPercentage.Text = RadialGauge.Value.ToString() + " %";
                     break;
 
                 case enChoices.ThisMonth:
                     int daysInMonth = DateTime.DaysInMonth(DateTime.Now.Year, DateTime.Now.Month);
-                    RadialGauge.Value = (int)CalcualteTotalPercentage(daysInMonth);
+                    RadialGauge.Value = (int)CalculateTotalPercentage(daysInMonth);
                     lblExactPercentage.Text = RadialGauge.Value.ToString() + " %";
                     break;
             }

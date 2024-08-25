@@ -28,13 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmWelcome));
             this.label1 = new System.Windows.Forms.Label();
             this.btnGo = new Guna.UI2.WinForms.Guna2GradientButton();
             this.label2 = new System.Windows.Forms.Label();
             this.pbTelegramAccount = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.pbFaceboolAccount = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.pbFacebookAccount = new Guna.UI2.WinForms.Guna2PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbTelegramAccount)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbFaceboolAccount)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbFacebookAccount)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -83,7 +84,7 @@
             // 
             this.pbTelegramAccount.BackColor = System.Drawing.Color.Transparent;
             this.pbTelegramAccount.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbTelegramAccount.Image = global::ToDoList.Properties.Resources.R__6_;
+            this.pbTelegramAccount.Image = ((System.Drawing.Image)(resources.GetObject("pbTelegramAccount.Image")));
             this.pbTelegramAccount.ImageRotate = 0F;
             this.pbTelegramAccount.Location = new System.Drawing.Point(297, 464);
             this.pbTelegramAccount.Name = "pbTelegramAccount";
@@ -93,19 +94,19 @@
             this.pbTelegramAccount.TabStop = false;
             this.pbTelegramAccount.Click += new System.EventHandler(this.pbTelegramAccount_Click);
             // 
-            // pbFaceboolAccount
+            // pbFacebookAccount
             // 
-            this.pbFaceboolAccount.BackColor = System.Drawing.Color.Transparent;
-            this.pbFaceboolAccount.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pbFaceboolAccount.Image = global::ToDoList.Properties.Resources._6a964b23124f6b87cacb059622e2fec0;
-            this.pbFaceboolAccount.ImageRotate = 0F;
-            this.pbFaceboolAccount.Location = new System.Drawing.Point(245, 464);
-            this.pbFaceboolAccount.Name = "pbFaceboolAccount";
-            this.pbFaceboolAccount.Size = new System.Drawing.Size(37, 37);
-            this.pbFaceboolAccount.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbFaceboolAccount.TabIndex = 12;
-            this.pbFaceboolAccount.TabStop = false;
-            this.pbFaceboolAccount.Click += new System.EventHandler(this.pbFaceboolAccount_Click);
+            this.pbFacebookAccount.BackColor = System.Drawing.Color.Transparent;
+            this.pbFacebookAccount.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbFacebookAccount.Image = ((System.Drawing.Image)(resources.GetObject("pbFacebookAccount.Image")));
+            this.pbFacebookAccount.ImageRotate = 0F;
+            this.pbFacebookAccount.Location = new System.Drawing.Point(245, 464);
+            this.pbFacebookAccount.Name = "pbFacebookAccount";
+            this.pbFacebookAccount.Size = new System.Drawing.Size(37, 37);
+            this.pbFacebookAccount.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbFacebookAccount.TabIndex = 12;
+            this.pbFacebookAccount.TabStop = false;
+            this.pbFacebookAccount.Click += new System.EventHandler(this.pbFacebookAccount_Click);
             // 
             // frmWelcome
             // 
@@ -113,7 +114,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 510);
-            this.Controls.Add(this.pbFaceboolAccount);
+            this.Controls.Add(this.pbFacebookAccount);
             this.Controls.Add(this.pbTelegramAccount);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnGo);
@@ -123,7 +124,7 @@
             this.Text = "Welcome To to-do list App";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbTelegramAccount)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbFaceboolAccount)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbFacebookAccount)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -135,6 +136,6 @@
         private Guna.UI2.WinForms.Guna2GradientButton btnGo;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2PictureBox pbTelegramAccount;
-        private Guna.UI2.WinForms.Guna2PictureBox pbFaceboolAccount;
+        private Guna.UI2.WinForms.Guna2PictureBox pbFacebookAccount;
     }
 }

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmsettimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|c:\\users\\user\\source\\repos\\todolist\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmmanagecategores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|C:\\Users\\USER\\source\\repos\\ToDoList\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECBB7F83-B305-48FE-880A-8A771AA58277}|ToDoList.csproj|solutionrelative:frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 367,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmSetTimer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs",
               "RelativeDocumentMoniker": "frmSetTimer.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs",
               "RelativeToolTip": "frmSetTimer.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAADAAAAAfAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwCQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:22:00.363Z",
+              "WhenOpened": "2024-08-25T12:07:34.604Z",
               "EditorCaption": ""
             },
             {
@@ -66,62 +58,33 @@
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmSetTimer.cs [Design]",
               "RelativeToolTip": "frmSetTimer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:21:57.043Z",
+              "WhenOpened": "2024-08-25T12:07:32.434Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmWelcome.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "frmWelcome.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmWelcome.cs",
+              "RelativeToolTip": "frmWelcome.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:06:57.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmMainScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
-              "RelativeDocumentMoniker": "frmMainScreen.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs [Design]",
-              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Title": "frmWelcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "frmWelcome.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmWelcome.cs [Design]",
+              "RelativeToolTip": "frmWelcome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T21:21:35.903Z",
+              "WhenOpened": "2024-08-25T12:06:55.994Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmManageCategores.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
-              "RelativeDocumentMoniker": "frmManageCategores.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
-              "RelativeToolTip": "frmManageCategores.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAwGcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:05:15.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmManageCategores.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs",
-              "RelativeDocumentMoniker": "frmManageCategores.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmManageCategores.cs [Design]",
-              "RelativeToolTip": "frmManageCategores.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:05:14.102Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmMainScreen.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
-              "RelativeDocumentMoniker": "frmMainScreen.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ToDoList\\frmMainScreen.cs",
-              "RelativeToolTip": "frmMainScreen.cs",
-              "ViewState": "AQIAAKYBAAAAAAAAAAAUwLQBAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:03:49.717Z",
-              "EditorCaption": ""
             }
           ]
         },

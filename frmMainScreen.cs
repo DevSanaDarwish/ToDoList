@@ -123,7 +123,6 @@ namespace ToDoList
         {
             SetDefaultValueInDateTimePicker();
             SetClickingOnPersonalToolStripMenuItem();
-            //SetClickingOnBtnAll();
             ConfigureDataGridView();
         }
 
@@ -141,8 +140,6 @@ namespace ToDoList
             dgvShowTasks.BeginEdit(true);
 
             dgvShowTasks.ClearSelection();
-
-            //dgvShowTasks.Rows[newRowIndex].Selected = true;
         }
 
         private void ResetOneButtonColor(Guna2Button button)
@@ -250,15 +247,6 @@ namespace ToDoList
 
         private void ColoringRows(DataGridViewRowPrePaintEventArgs e)
         {
-            //if (e.RowIndex %2 == 0)
-            //{
-            //    dgvShowTasks.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.MidnightBlue;
-            //}
-            //else
-            //{
-            //    dgvShowTasks.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.FromArgb(0, 0, 64);
-            //}
-
             dgvShowTasks.Rows[e.RowIndex].DefaultCellStyle.BackColor = Color.FromArgb(0, 0, 64);
 
             dgvShowTasks.DefaultCellStyle.SelectionBackColor = Color.Orchid;
